@@ -1,0 +1,39 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+html{
+  background: linear-gradient(135deg, rgb(240, 240, 176) 60%, orange);
+  background-repeat: repeat;
+  height: 100vh;
+}
+img{
+  display: block;
+  margin: 0 auto;
+  height: 20em
+}
+
+body{
+  text-align: center;
+
+
+}
+
+h3{
+  padding: 0 20px
+}
+
+ul{
+  list-style: none;
+}
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
